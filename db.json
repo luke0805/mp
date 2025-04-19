@@ -74,12 +74,5 @@
         "image": "https://applet-base-api-t.itheima.net/img/banner/banner02.png",
         "link": "/pages/list/list?cat=10"
     }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
