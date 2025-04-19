@@ -29,26 +29,6 @@
         "id": 5,
         "name": "找工作",
         "icon": "https://applet-base-api-t.itheima.net/img/nav/nav05.png"
-    },
-    {
-        "id": 6,
-        "name": "辅导班",
-        "icon": "https://applet-base-api-t.itheima.net/img/nav/nav06.png"
-    },
-    {
-        "id": 7,
-        "name": "汽车保养",
-        "icon": "https://applet-base-api-t.itheima.net/img/nav/nav07.png"
-    },
-    {
-        "id": 8,
-        "name": "租房",
-        "icon": "https://applet-base-api-t.itheima.net/img/nav/nav08.png"
-    },
-    {
-        "id": 9,
-        "name": "装修",
-        "icon": "https://applet-base-api-t.itheima.net/img/nav/nav09.png"
     }
   ],
   "color": {
@@ -58,9 +38,7 @@
         "242, 121, 239",
         "121, 242, 210",
         "242, 174, 121",
-        "139, 121, 242",
-        "138, 242, 121",
-        "242, 121, 173"
+        "139, 121, 242"
     ]
   },
   "slides": [
