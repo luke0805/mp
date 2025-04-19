@@ -4,6 +4,77 @@
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
   ],
+  "categories": [
+    {
+        "id": 1,
+        "name": "美食",
+        "icon": "https://applet-base-api-t.itheima.net/img/nav/nav01.png"
+    },
+    {
+        "id": 2,
+        "name": "洗浴足疗",
+        "icon": "https://applet-base-api-t.itheima.net/img/nav/nav02.png"
+    },
+    {
+        "id": 3,
+        "name": "结婚啦",
+        "icon": "https://applet-base-api-t.itheima.net/img/nav/nav03.png"
+    },
+    {
+        "id": 4,
+        "name": "卡拉OK",
+        "icon": "https://applet-base-api-t.itheima.net/img/nav/nav04.png"
+    },
+    {
+        "id": 5,
+        "name": "找工作",
+        "icon": "https://applet-base-api-t.itheima.net/img/nav/nav05.png"
+    },
+    {
+        "id": 6,
+        "name": "辅导班",
+        "icon": "https://applet-base-api-t.itheima.net/img/nav/nav06.png"
+    },
+    {
+        "id": 7,
+        "name": "汽车保养",
+        "icon": "https://applet-base-api-t.itheima.net/img/nav/nav07.png"
+    },
+    {
+        "id": 8,
+        "name": "租房",
+        "icon": "https://applet-base-api-t.itheima.net/img/nav/nav08.png"
+    },
+    {
+        "id": 9,
+        "name": "装修",
+        "icon": "https://applet-base-api-t.itheima.net/img/nav/nav09.png"
+    }
+  ],
+  "color": {
+    "message": "success",
+    "data": [
+        "203, 242, 121",
+        "242, 121, 239",
+        "121, 242, 210",
+        "242, 174, 121",
+        "139, 121, 242",
+        "138, 242, 121",
+        "242, 121, 173"
+    ]
+  },
+  "slides": [
+    {
+        "id": 1,
+        "image": "https://applet-base-api-t.itheima.net/img/banner/banner01.png",
+        "link": ""
+    },
+    {
+        "id": 2,
+        "image": "https://applet-base-api-t.itheima.net/img/banner/banner02.png",
+        "link": "/pages/list/list?cat=10"
+    }
+  ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
